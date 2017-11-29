@@ -1,12 +1,12 @@
-- Feature Name: (fill me in with a unique ident, my_awesome_feature)
-- Start Date: (fill me in with today's date, YYYY-MM-DD)
+- Feature Name: What type of experience are we going for?
+- Start Date: 2017-11-29
 - RFC PR: (leave this empty)
 - Kamina Issue: (leave this empty)
 
 # Summary
 [summary]: #summary
 
-One paragraph explanation of the feature.
+Do we want to just copy 8chan? what about something like fb groups?
 
 # Motivation
 [motivation]: #motivation
